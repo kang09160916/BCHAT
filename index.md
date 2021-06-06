@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## 교육용챗봇 
+서울행당초 정원소개 챗봇입니다
+# 학교소개
+## 학교의 사계절
+###학교 정원 꽃
+ - 벗꽃
+ - 개나리
+ -  장미
 
-You can use the [editor on GitHub](https://github.com/kang09160916/BCHAT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
